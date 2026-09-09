@@ -5,51 +5,56 @@
 
 void frame1(){
 
-    printf("        \n");    
-    printf("        \n");
-    printf("        \n");
-    printf("        \n");
-    printf("   O    \n");
+    printf("_________\n");
+    printf("         \n");    
+    printf("         \n");
+    printf("         \n");
+    printf("         \n");
+    printf("____O____\n\n");
 
 }
 
 void frame2(){
 
-    printf("        \n");    
-    printf("        \n");
-    printf("        \n");
-    printf("   O    \n");
-    printf("        \n");
+    printf("_________\n");
+    printf("         \n");    
+    printf("         \n");
+    printf("         \n");
+    printf("    O    \n");
+    printf("_________\n\n");
 
 }
 
 void frame3(){
 
-    printf("        \n");    
-    printf("        \n");
-    printf("   O    \n");
-    printf("        \n");
-    printf("        \n");
+    printf("_________\n"); 
+    printf("         \n");   
+    printf("         \n");
+    printf("    O    \n");
+    printf("         \n");
+    printf("_________\n\n");
 
 }
 
 void frame4(){
 
-    printf("        \n");    
-    printf("   O    \n");
-    printf("        \n");
-    printf("        \n");
-    printf("        \n");
+    printf("_________\n");
+    printf("         \n");    
+    printf("    O    \n");
+    printf("         \n");
+    printf("         \n");
+    printf("_________\n\n");
 
 }
 
 void frame5(){
 
-    printf("   O    \n");    
-    printf("        \n");
-    printf("        \n");
-    printf("        \n");
-    printf("        \n");
+    printf("_________\n");
+    printf("    O    \n");    
+    printf("         \n");
+    printf("         \n");
+    printf("         \n");
+    printf("_________\n\n");
 
 }
 
